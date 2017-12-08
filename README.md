@@ -20,8 +20,10 @@ yarn add gitbook-plugin-codesandbox --dev
 
 3. Just write your markdown like below
 
+```markdown
 {% codesandbox %}
 https://codesandbox.io/embed/5k7kk5n73k?hidenavigation=1&view=preview
 {% endcodesandbox %}
+```
 
 4. Have Fun.
