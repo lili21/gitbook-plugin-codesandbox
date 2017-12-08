@@ -18,7 +18,7 @@ yarn add gitbook-plugin-codesandbox --dev
 }
 ```
 
-3. Just write your markdown like below
+3. Just write your codesandbox like below
 
 ```markdown
 {% codesandbox %}
