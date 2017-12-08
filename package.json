@@ -1,0 +1,17 @@
+{
+  "name": "gitbook-plugin-codesandbox",
+  "version": "0.1.0",
+  "description": "gitbook plugin for codesandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "gitbook": ">2.x.x"
+  },
+  "keywords": [],
+  "author": "li.li",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
