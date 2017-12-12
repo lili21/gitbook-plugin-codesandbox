@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-codesandbox",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "gitbook plugin for codesandbox",
   "main": "index.js",
   "scripts": {
